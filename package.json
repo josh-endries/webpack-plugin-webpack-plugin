@@ -1,0 +1,8 @@
+{
+  "name": "webpack-plugin-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin for creating Webpack plugins",
+  "main": "index.js",
+  "author": "Josh Endries",
+  "license": "BSD-2-Clause"
+}
